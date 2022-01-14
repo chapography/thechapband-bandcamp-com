@@ -1625,7 +1625,6 @@ Styles specific to a single page should live in that page. */
 body {
     margin: 0px;
     padding: 0px;
-    background: #f7f7f7;
 }
 
 .widebody #pgHd, .widebody #pgFt {

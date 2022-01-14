@@ -2301,7 +2301,6 @@ ol.editable-grid {
     margin: 0;
     padding: 0;
     position: relative;
-    width: 796px;
 }
 ol.editable-grid > li {
     display: inline-block;
